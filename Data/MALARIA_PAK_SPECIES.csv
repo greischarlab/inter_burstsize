@@ -1,0 +1,278 @@
+﻿Forms,Order,Plasmodium species,OrderHost,GenHost,Host,Specific Host ,Average,Lower,Upper,Duration,Sources,DOI,Meront,Nuclei
+Phasianidae,1,formosanum,avian,avian,phesants,"Arborophila crudigularis, A. gingica, Amaurornis phoenicurus",10,5,16,48,Avian Malarial Parasites and Other Haemosporidia,NA,Yes,No
+Dipodactylidae,1,rhacodactyli,reptile,reptile,lizard,Rhacodactylus leachianus,7,4,10,NA,Hemoparasites of the Reptilia,NA,Yes,No
+Sphaerodactylidae,2,gonatodi,reptile,reptile,gecko,"Gonatodes albogularis fuscus, Gonatodes humeralis, Gonatodes vittatus",31,12,50,NA, Hemoparasites of the Reptilia,NA,Yes ,No
+Sphaerodactylidae,3,beebei,reptile,lizard,gecko,Gonatodes taniae,14,8,20,NA,Hemoparasites of the Reptilia,NA,Yes,No
+Cynocephalidae,1,sandoshami,mammal,primate,colugo,Galeopterus variegatus,6,4,8,72,"Plasmodium Sandoshami SP. Nov., a New Species of Malaria Parasite from the Malayan Flying Lemur",https://doi.org/10.1080/00034983.1963.11686164,No,No
+Phyllodactylidae,4,aurulentum,reptile,lizard,gecko,Thecadactylus rapicaudus,14,6,22,NA,Hemoparasites of the Reptilia,NA,Yes,No
+Phasianidae,2,lophurae,avian,avian,phesants,"Lophura ignite igniti,L. erythropthalma,Geopelia striata, Meleagris
+gallopavo",13,8,18,24 (36),Avian Malarial Parasites and Other Haemosporidia,NA,Yes,No
+Phasianidae,3,pedioecetae,avian,avian,phesants,"Tympanuchus (=Pedioecetes) phasianellus,T.  phasianellus, Alectoris chukar, Centrocercus urophasianus, Colinus virginianus, Coturnix coturnix, Dendragapus obscurus, Callipepla gambelii, Nothura darwinii,  Oreortyx picta, Perdix perdix, Serinus canaria
+T. cupido",10,8,22,NA,Avian Malarial Parasites and Other Haemosporidia,NA,Yes,No
+Phasianidae,4,durae,avian,avian,turkey,"Meleagris gallopavo, Pternistis leucoscepus, Scleroptila levaillantii, Pternistis swainsonii,Numida meleagris, Pavo cristatus,  P. cristatus",10,4,14,24,Avian Malarial Parasites and Other Haemosporidia,NA,Yes,No
+Phasianidae,5,griffithsi,avian,avian,turkey,Meleagris gallopavo,18,16,20,NA,Avian Malarial Parasites and Other Haemosporidia,NA,Yes,No
+Lemuridae,2,bucki,mammal,primate,lemur,Eulemur macaco,32,NA,34,NA,Plasmodies de lémuriens malgaches,NA,No ,No
+Phasianidae,6,hermani,avian,avian,turkey,"Meleagris gallopavo, Colinus virginianus",10,6,14,NA,Avian Malarial Parasites and Other Haemosporidia,NA,Yes,No
+Phyllodactylidae,5,karyolytica,reptile,lizard,gecko,Thecadactylus rapicaudus,24,20,28,NA,Hemoparasites of the Reptilia,NA,Yes ,No
+Phasianidae,7,kempi,avian,avian,turkey,Meleagris gallopavo,6,4,8,NA,Avian Malarial Parasites and Other Haemosporidia,NA,Yes,No
+Lemuridae,3,coulangesi,mammal,primate,lemur,Eulemur macaco,6,NA,NA,NA,Une nouvelle espèce Plasmodiale chez un lémurien : Plasmodium coulangesi n. sp.,https://doi.org/10.1051/parasite/1989643163,No ,No
+Phyllodactylidae,6,lainsoni,reptile,lizard,gecko,Phylodactylus ventralis,21,14,28,NA,Hemoparasites of the Reptilia,NA,Yes ,No
+Phyllodactylidae,7,scorzai,reptile,lizard,gecko,Phylodactylus ventralis,23,11,35,NA,Hemoparasites of the Reptilia,NA,Yes,No
+Gekkonidae,8,billbraya,reptile,lizard,gecko,Christinus marmoratus,7,6,8,NA,Hemoparasites of the Reptilia,NA,Yes,Yes
+Gekkoniade,9,loveridgei,reptile,lizard,lizard,"Lygodactylus luteopicturatus, Lygodactylus grotei",16,6,26,NA,Hemoparasites of the Reptilia,NA,Yes,No
+Gekkonidae,10,cnemaspi,reptile,lizard,gecko,Ancylodactylus barbouri,16,8,24,NA,Hemoparasites of the Reptilia,NA,Yes,No
+Gekkoniade,11,lionatum,reptile,lizard,gecko,Gekko lionotum,5,4,6,NA,Hemoparasites of the Reptilia,NA,Yes,No
+Gekkonidae,12,uluguruense,reptile,gecko,gecko,Hemidactylus platycephalus,8,4,12,NA,Hemoparasites of the Reptilia,NA,Yes,No
+Cordylidae,14,cordyli,reptile,lizard,lizard,"Cordylus tropidosternum, C. vittifer",7,4,11,NA,Hemoparasites of the Reptilia,NA,Yes,No
+Phasianidae,8,tejerai,avian,avian,turkey,Meleagris gallopavo,13,8,24,NA,Avian Malarial Parasites and Other Haemosporidia,NA,Yes,No
+Cordylidae,14,zonuriae,reptile,lizard,lizard,"Cordylus vittifer, Pseudocordylus microlepidotus melanotus",20,12,28,NA,Hemoparasites of the Reptilia,NA,Yes,No
+Cordylidae,15,intabazwe,reptile,lizard,lizard,Pseudocordylus melanotus,11,8,14,NA,A new lizard malaria parasite Plasmodium intabazwe n. sp. (Apicomplexa: Haemospororida: Plasmodiidae) in the Afromontane Pseudocordylus melanotus (Sauria: Cordylidae) with a review of African saurian malaria parasites,"https://doi.org/10.1186/s13071-016-1702-3
+",Yes,Yes
+Lemuridae,4,percygarnhami,mammal,primate,lemurs,Eulemur macaco,20,NA,NA,NA,Plasmodies de lémuriens malgaches,http://dx.doi.org/10.1051/parasite/1989643171,No,No
+Phasianidae,9,coggeshalli,avian,avian,chicken,Gallus gallus; Meleagris gallopavo,21,20,22,NA,"Les Plasmodium de Lophura (Phasianidae) : redescription de P. lophurae Coggeshall, 1938 et description de deux nouvelles espèces",NA,No,No
+Phasianidae,10,japonicum,avian,avian,chicken,Gallus gallus ,4,2,6,18-24,"Plasmodium japonicum, P. juxtanucleare and P. nucleophilum in the Far East (Manwell 1966)",https://doi.org/10.1111/j.1550-7408.1966.tb01860.x,No,No
+Scincidae,16,morulum,reptile,lizard,lizard,Mabuya mabouya,14,9,40,NA,Hemoparasites of the Reptilia,NA,Yes,No
+Phasianidae,11,gallinaceum,avian,avian,chicken,"Gallus gallus, G. bankiva, G. sonneratii",18,8,36,36,Avian Malarial Parasites and Other Haemosporidia,NA,Yes,No
+Phasianidae,12,juxtanucleare,avian,avian,chicken,"Gallus gallus, Bambusicola thoracica, Scleroptila afra, Ortygornis sephaena, Gallus lafayettii, Pavo cristatus, Meleagris gallopavo",4,2,6,24,Avian Malarial Parasites and Other Haemosporidia,NA,Yes,No
+Scincidae,17,mabuiae,reptile,lizard,lizard,"Trachylepis quinquetaeniata,Trachylepis striata, Trachylepis maculilabris",8,4,12,NA,Hemoparasites of the Reptilia,NA,Yes,No
+Lemuridae,5,girardi,mammal,primate,lemur,Eulemur rufus,11,10,12,72,The Primates Malaria,NA,No,No
+Atelidae,6,brasilianum,mammal,primate,monkeys,"Alouatta seniculus straminea, A. palliata, A. pigra, Saimiri boliviensis, S. sciurea, C. albifrons, Cebus imitator, Ateles fusciceps, A. geoffroyi, A. paniscus Lagothrix lagotricha, L. infumata",10,4,16,72,The Primates Malaria,NA,No ,No
+Atelidae,7,simium,mammal,primate,monkeys,"Alouatta guariba, A. trivirgatus, Brachyteles arachnoides",15,12,18,48,The Primates Malaria,NA,No,No
+Scincidae,18,maculilabre,reptile,lizard,lizard,Trachylepis maculilabris,17,15,20,NA,Hemoparasites of the Reptilia,NA,Yes,No
+Scincidae,19,adunyinkai,reptile,lizard,skink,Trachylepis striata,16,10,19,NA,Saurian malaria in Kenya: Description of ten new species from West Pokot District,https://doi.org/10.1017/S1742758400003672,No ,No
+Cercopithecidae,8,inui,mammal,primate,monkeys,"Macaca nigram, M. cyclopis, M.fascicularis, M. mulatta, M . nemestrina,M . radiate, Trachypithecus cristatus, Trachypithecus obscurus",12,NA,18,72,The Primates Malaria,NA,No ,No
+Cercopithecidae,9,fragile,mammal,primate,monkeys,"Macaca radiata, M. sinica",16,NA,19,48,The Primates Malaria,,No,No
+Phasianidae,13,coturnixi,avian,avian,phesants,Coturnix coturnix,16,16,16,24,Avian Malarial Parasites and Other Haemosporidia,NA,Yes,No
+Anatidae,14,anasum,avian,avian,duck,Spatula clypeata,16,12,18,NA,Avian Malarial Parasites and Other Haemosporidia,NA,Yes,No
+Scincidae,20,gloriai,reptile,reptile,lizard,"Mabuya striata, Agama agama",14,10,18,NA,Saurian malaria in Kenya: Description of ten new species from West Pokot District,https://doi.org/10.1017/S1742758400003672,No,No
+Anatidae,15,hegneri,avian,avian,duck,Anas crecca,14,9,19,NA,Avian Malarial Parasites and Other Haemosporidia,NA,Yes,No
+Scincidae,21,heischi,reptile,lizard,lizard,Trachylepis striata,43,20,65,NA,Hemoparasites of the Reptilia,NA,Yes ,No
+Cercopithecidae,10,simiovale,mammal,primate,monkeys,Macaca sinica,14,12,16,48,The Primates Malaria,NA,No,No
+Cercopithecidae,11,coatneyi,mammal,primate,monkeys,Macaca fascicularis,20,NA,NA,48,The Primates Malaria,NA,No ,No
+Scincidae,22,kachelibaensis,reptile,reptile,lizard,Trachylepis striata,9,6,12,NA,Saurian malaria in Kenya: Description of ten new species from West Pokot District,https://doi.org/10.1017/S1742758400003672,No,No
+Scincidae,23,kadogoi,reptile,reptile,lizard,"Mabuya striata, Agama Agama",2,2,3,NA,Saurian malaria in Kenya: Description of ten new species from West Pokot District,https://doi.org/10.1017/S1742758400003672,No ,No
+Columbidae,16,arachnidi,avian,avian,avian,Columba livia,9,6,12,NA,"A new species of the genus plasmodium, Plasmodium arachnidi from the domestic pigeons in Guangzhou",https://europepmc.org/article/cba/284289,No,No
+Columbidae,17,columbae,avian,avian,avian,Columba livia,7,4,10,NA,Avian Malarial Parasites and Other Haemosporidia,NA,Yes,No
+Scincidae,24,kaninii,reptile,reptile,lizard,Trachylepis striata,4,2,6,NA,Saurian malaria in Kenya: Description of ten new species from West Pokot District,https://doi.org/10.1017/S1742758400003672,No,No
+Scincidae,25,pitmani,reptile,lizard,lizard,"Trachylepis striata, Trachylepis quinquetaeniata,Trachylepis maculilabris , T. varia",14,4,25,NA,Hemoparasites of the Reptilia,NA,Yes,No
+Scincidae,26,sapaaensis,reptile,lizard,lizard,"Trachylepis striata, Agama agama",4,2,5,NA,Saurian malaria in Kenya: Description of ten new species from West Pokot District,https://doi.org/10.1017/S1742758400003672,No,No
+Cercopithecidae,12,fieldi,mammal,primate,monkeys,"Macaca fascicularis, M. mulatta, M. nemestrina,M. radiata, Papio doguera, Trachypithecus cristatus",12,4,16,48,The Primates Malaria,NA,No,No
+Columbidae,18,gabaldoni,avian,avian,avian,"Columba livia, Cairina moschata",24,12,36,24,Avian Malarial Parasites and Other Haemosporidia,NA,No,No
+Scincidae,27,saurocaudatum,reptile,lizard,lizard,Eutropis multifasciata,4,3,6,NA,Hemoparasites of the Reptilia,NA,Yes,No
+Rallidae,19,bertii,avian,avian,rail,Aramides cajanea,4,NA,NA,NA,Avian Malarial Parasites and Other Haemosporidia,NA,Yes,No
+Rallidae,20,lutzi,avian,avian,rail,Aramides cajanea cajanea,15,6,26,NA,Avian Malarial Parasites and Other Haemosporidia,NA,Yes,No
+Scincidae,28,minasense,reptile,lizard,lizard,"Varzea bistriata, species of the families Iguanidae, Polychrotidae, and Teiidae",6,4,10,NA,Hemoparasites of the Reptilia,NA,Yes,No
+Accipitridae,21,accipiteris,avian,avian,hawk,Accipiter brevipes,6,4,8,NA,Plasmodium spp. In raptors on the eurasian-african migration route,https://doi.org/10.1051/parasite/2007144313,No,No
+Cercopithecidae,13,georgesi,mammal,primate,monkeys,Cercocebus albigena,24,22,26,NA,"Description de Plasmodium petersi n. sp. et Plasmodium georgesi n. sp., parasites d’un Cercocebus albigena originaire de République Centrafricaine",https://doi.org/10.1051/parasite/1993685203,No,Yes
+Cercopithecidae,14,gonderi,mammal,primate,monkeys,"Cercocebus atys, C. galeritus, C. albigena, Mandrillus leucophaeu",16,12,20,48,"Description de Plasmodium petersi n. sp. et Plasmodium georgesi n. sp., parasites d’un Cercocebus albigena originaire de République Centrafricaine",https://doi.org/10.1051/parasite/1993685203,No,Yes
+Cercopithecidae,15,petersi,mammal,primate,monkeys,Lophocebus albigena,15,12,18,,"Description de Plasmodium petersi n. sp. et Plasmodium georgesi n. sp., parasites d’un Cercocebus albigena originaire de République Centrafricaine",https://doi.org/10.1051/parasite/1993685203,No,Yes
+Accipitridae,22,alloelongatum,avian,avian,hawk,Accipiter brevipes,3,2,6,NA,Plasmodium spp. In raptors on the eurasian-african migration route,https://doi.org/10.1051/parasite/2007144313,No,No
+Strigidae,23,subpraecox,avian,avian,owls,"Athene noctua, Alauda arvensis, Asio flammeus,Bubo scandiacus,Otus asio,Strix aluco, Zosterops cinerea",8,5,12,24,Avian Malarial Parasites and Other Haemosporidia,NA,Yes,No
+Scincidae,29,egerniae,reptile,lizard,lizard,Bellatorias major,45,40,50,NA,Hemoparasites of the Reptilia,NA,Yes,No
+Scincidae,30,circularis,reptile,lizard,skink,Egernia stokesi ,35,19,52,NA,Hemoparasites of the Reptilia,NA,Yes,Yes
+Strigidae,24,oti,avian,avian,owls,Otus asio,,,,,Plasmodium oti and P. hexamerium,https://doi.org/10.2307/3273633,,
+Accipitridae,25,buteonis,avian,avian,hawk,Buteo buteo,36,NA,NA,NA,Plasmodium spp. In raptors on the eurasian-african migration route,https://doi.org/10.1051/parasite/2007144313,No ,Yes
+Scincidae,31,mackerrasae,reptile,lizard,lizard,"Egernia cunninghami, Egernia stokesii, Egernia striolata, Egernia whitei ",9,4,14,NA,Hemoparasites of the Reptilia,NA,Yes,No
+Strigidae,25,forresteri,avian,avian,owls,"Strix varia, Otus asio, Bubo virginianus, Haliaeetus leucocephalus, Buteo linetus, B. platypterus, B. jamaicensis",4,2,6,NA,"Plasmodium forresteri n. sp., from Raptors in Florida and Southern Georgia: Its Distinction from Plasmodium elongatum Morphologically within and among Host Species and by Vector Susceptibility","https://doi.org/10.2307/3284292
+",No ,No
+Scincidae,32,tribolonoti,reptile,lizard,lizard,Tribolonotus gracilis,15,10,21,NA,Hemoparasites of the Reptilia,NA,Yes,No
+Strigidae,26,fallax,avian,avian,owls,"Syrnium nuchale, Accipiter nisus,Aquila rapax, Hieraaetus wahlbergi, Emberiza tahapisi, Gyps africanus, Numida meleagris,Sylvia borin",15,12,18,NA,Avian Malarial Parasites and Other Haemosporidia,NA,Yes,No
+Hylobatidae,16,eylesi,mammal,primate,gibbons,Hylobates lar,25,20,34,48,The Primates Malaria,NA,No,No
+Scincidae,33,lygosomae,reptile,lizard,lizard,Oligosoma nigriplantare,4,NA,NA,NA,Hemoparasites of the Reptilia,NA,Yes,No
+Scincidae,34,nucleoversans,reptile,lizard,lizard,"Emoia cyanura, Prasinohaema virens anolis, Lepidodactylus guppyi",5,4,6,NA,Hemoparasites of the Reptilia,NA,Yes,No
+Hylobatidae,17,jefferyi,mammal,primate,gibbons,Hylobates lar,14,10,18,48,The Primates Malaria,NA,No ,No
+Strigidae,27,gundersi,avian,avian,owls,"Ciccaba woodfordii, Arborophila gingica.",10,6,14,24,Avian Malarial Parasites and Other Haemosporidia,NA,Yes,No
+Hylobatidae,18,youngi,mammal,primate,gibbons,Hylobates lar ,14,12,20,48,The Primates Malaria,NA,No,No
+Scincidae,35,gracilis,reptile,lizard,lizard,Tribolonotus gracilis,5,3,8,NA,Hemoparasites of the Reptilia,NA,Yes,No
+Teiidae,36,minasense tegui,reptile,lizard,lizard,Tupinambis teguixin,5,4,6,NA,Hemoparasites of the Reptilia,NA,Yes,No
+Upupidae,28,garnhami,avian,avian,avian,Upupa epops,7,6,8,48,Avian Malarial Parasites and Other Haemosporidia,NA,Yes,No
+Ramphastidae,29,pinottii,avian,avian,toucan,"Ramphastos toco, Coereba flaveola, Euneornix campestris, Loxipasser anoxanthus, Melanospiza bicolor",12,6,18,NA,Avian Malarial Parasites and Other Haemosporidia,NA,Yes,No
+Hylobatidae,19,hylobati,mammal,primate,gibbons,Hylobates moloch,15,12,20,48,The Primates Malaria,NA,No ,No
+Psittaculidae,31,dissanaikei,avian,avian,parrot,Psittacula krameri,9,6,12,NA,Avian Malarial Parasites and Other Haemosporidia,NA,Yes,No
+Ramphastidae,30,huffi,avian,avian,toucan,Ramphastos toco,21,12,30,48,Avian Malarial Parasites and Other Haemosporidia,NA,Yes,No
+Vangidae,32,parvulum,avian,avian,avian,"Schetba rufa, Falculea palliata",7,6,8,NA,A new species of Plasmodium from Malagasy vangas,https://doi.org/10.1645/GE-431R.1,No,No
+Hominidae,20,pitheci,mammal,primate,orangutuan,Pongo pygmaeus,13,12,14,48,The Primates Malaria,NA,No,No
+Corvidae,33,alaudae,avian,avian,avian,Pica pica ,8,NA,NA,NA,Plasmodium (Apicomplexa) of the skylark (Alauda arvensis),https://doi.org/10.5252/z2009n2a8,No ,Yes
+Teiidae,37,attenuatum,reptile,lizard,chameleon,Ameiva ameiva; Ameiva ameiva praesignis,5,3,8,NA,Hemoparasites of the Reptilia,NA,Yes ,No
+Corvidae,34,beacournui,avian,avian,avian,Pica pica,13,12,14,NA,Fidélisation du couple hôte-vecteur facteur probable de spéciation 14 espèces de plasmodium de la pie,https://doi.org/10.1051/parasite/2007141021,No ,Yes
+Corvidae,35,bioccai,avian,avian,avian,Pica pica; Alauda arvensis,26,NA,NA,NA,Plasmodium (Apicomplexa) of the skylark (Alauda arvensis),https://doi.org/10.5252/z2009n2a8,No ,Yes
+Hominidae,21,silvaticum,mammal,primate,orangutuan,Pongo pygmaeus,15,10,20,48,Malaria parasites of the orangutan (Pongo pygmaeus),https://doi.org/10.1098/rstb.1976.0089,No,Yes
+Corvidae,36,dherteae,avian,avian,avian,Pica pica; Alauda arvensis,8,6,10,NA,Plasmodium (Apicomplexa) of the skylark (Alauda arvensis),https://doi.org/10.5252/z2009n2a8,No,Yes
+Teiidae,38,carmelinoi,reptile,lizard,lizard,Ameiva ameiva,10,8,12,NA,Plasmodium carmelinoi n. sp. (Haemosporida: Plasmodiidae) of the lizard Ameiva ameiva (Squamata: Teiidae) in Amazonian Brazil,https://doi.org/10.1051/parasite/2010172129,No ,Yes
+Teiidae,39,telfordi,reptile,lizard,lizard,"Ameiva ameiva; A. praesignis, A. ameiva vögli",14,5,24,NA,Hemoparasites of the Reptilia,NA,Yes,No
+Corvidae,37,dorsti,avian,avian,avian,Pica pica; Alauda arvensis,26,NA,NA,NA,Plasmodium (Apicomplexa) of the skylark (Alauda arvensis),https://doi.org/10.5252/z2009n2a8,No ,Yes
+Teiidae,40,diminutivum,reptile,lizard,lizard,Ameiva praesignis,5,4,6,NA,"Malaria Parasites of the “Borriguerro” Lizard, Ameiva ameiva (Sauria: Teiidae) in Panama",https://doi.org/10.1111/j.1550-7408.1973.tb00863.x,No ,Yes
+Hominidae,22,reichenowi,mammal,primate,chimpanzees,Pan troglodytes,11,10,12,48,The Primates Malaria,NA,No,No
+Teiidae,41,pifanoi,reptile,lizard,lizard,"Ameiva ameiva ameiva,Kentropyx calcarata",12,7,16,NA,Hemoparasites of the Reptilia,NA,Yes,No
+Corvidae,38,ghadiriani,avian,avian,avian,Pica pica; Alauda arvensis,17,NA,24,NA,Plasmodium (Apicomplexa) of the skylark (Alauda arvensis),https://doi.org/10.5252/z2009n2a8,No ,Yes
+Corvidae,39,golvani,avian,avian,avian,Pica pica,28,NA,NA,NA,"Fidélisation du couple hôte-vecteur facteur probable de spéciation :
+14 espèces de plasmodium de la pie",https://doi.org/10.1051/parasite/2007141021,No,Yes
+Teiidae,42,minasense diminutivum,reptile,lizard,lizard,Ameiva ameiva praesignis,5,4,6,NA,Hemoparasites of the Reptilia,NA,Yes,No
+Corvidae,40,lenoblei,avian,avian,avian,Pica pica,13,12,14,NA,"Fidélisation du couple hôte-vecteur facteur probable de spéciation :
+14 espèces de plasmodium de la pie",https://doi.org/10.1051/parasite/2007141021,No,Yes
+Teiidae,43,kentropyxi,reptile,lizard,lizard,Kentropyx calcarata,45,40,50,NA,Hemoparasites of the Reptilia,NA,Yes,No
+Corvidae,41,pfefferi,avian,avian,avian,Pica pica,4,NA,NA,NA,"Species of Plasmodium of passerine birds with four nuclei, with description of new species",https://doi.org/10.2478/s11686-008-0046-3,No,Yes
+Corvidae,42,snounoui,avian,avian,avian,Pica pica,7,6,8,NA,Fidélisation du couple hôte-vecteur facteur probable de spéciation : 14 espèces de plasmodium de la pie,https://doi.org/10.1051/parasite/2007141021,No,Yes
+Teiidae,44,lepidoptiformis,reptile,lizard,lizard,Kentropyx calcarata,5,4,8,NA,Hemoparasites of the Reptilia,NA,Yes,No
+Corvidae,43,tranieri,avian,avian,avian,Pica pica,12,NA,NA,NA,Fidélisation du couple hôte-vecteur facteur probable de spéciation : 14 espèces de plasmodium de la pie,https://doi.org/10.1051/parasite/2007141021,No,Yes
+Corvidae,44,valkiunasi,avian,avian,avian,Pica Pica,11,10,12,NA,Probable speciations by “host-vector ‘fidelity’”: 14 species of Plasmodium from magpies,"	https://doi.org/10.1051/parasite/2007141021",Yes,Yes
+Alaudidae,45,caloti,avian,avian,avian,Alauda arvensis,8,5,12,NA,Plasmodium (Apicomplexa) of the skylark (Alauda arvensis),https://doi.org/10.5252/z2009n2a8,No ,No
+Hominidae,23,schwetzi,mammal,primate,"chimpanzees, gorillas","chimpanzees, gorillas",14,12,16,48,The Primates Malaria,NA,No,No
+Teiidae,45,minasense calcaratae,reptile,lizard,lizard,Kentropyx calcarata,3,3,4,NA,Hemoparasites of the Reptilia,NA,Yes,No
+Teiidae,46,cnemidophori,reptile,lizard,lizard,"Cnemidophorus lemniscatus, Ameiva ameiva
+A. praesignis, Holcosus anomalus, H. bridgesii, H. festivus",100,42,127,NA,Hemoparasites of the Reptilia,NA,Yes,No
+Human,24,falciparum,mammal,primate,human,"human, chimpanzees",16,8,32,48,Foundations of Parasitology; The Primates Malaria,NA,No,No
+Alaudidae,46,coluzzii,avian,avian,avian,Alauda arvensis ,30,NA,NA,NA,Plasmodium (Apicomplexa) of the skylark (Alauda arvensis),https://doi.org/10.5252/z2009n2a8,No ,Yes
+Alaudidae,47,ginsburgi,avian,avian,avian,Alauda arvensis ,30,NA,NA,NA,Plasmodium (Apicomplexa) of the skylark (Alauda arvensis),https://doi.org/10.5252/z2009n2a8,No,Yes
+Human,25,ovale,mammal,primate,human,human,8,4,16,48,Foundations of Parasitology; Primate malaria,NA; NA,No,No
+Teiidae,47,josephinae,reptile,lizard,lizard,Holcosus amphigrammus ,14,7,22,NA,Hemoparasites of the Reptilia,NA,Yes,No
+Alaudidae,48,jeanriouxi,avian,avian,avian,Alauda arvensis,6,NA,,NA,Plasmodium (Apicomplexa) of the skylark (Alauda arvensis),https://doi.org/10.5252/z2009n2a8,Yes ,No
+Lacertidae,48,holaspi,reptile,lizard,lizard,Holaspis guentheri,13,8,18,NA,Hemoparasites of the Reptilia,NA,Yes,No
+Lacertidae,49,sasai,reptile,lizard,lizard,"Takydromus tachydromoides, T. smaragdinus, T. sexlineatus",8,2,14,NA,Hemoparasites of the Reptilia,NA,Yes,No
+Diploglossidae,50,diploglossi,reptile,lizard,lizard,"Diploglossus fasciatus, Mabuya mabouya",30,11,50,NA,Hemoparasites of the Reptilia,NA,Yes,No
+Varanidae,51,auffenbergi,reptile,lizard,monitorlizard,Varanus olivaceus,3,2,5,NA,Hemoparasites of the Reptilia,NA; https://doi.org/10.1051/parasite/1983586523,Yes,No
+Alaudidae,49,polymorphum,avian,avian,avian,Alauda arvensis,10,6,14,NA,A New Morphologically Distinct Avian Malaria Parasite That Fails Detection By Established Polymerase Chain Reaction–Based Protocols for Amplification of the Cytochrome B Gene,https://doi.org/10.1645/GE-3006.1,Yes,No
+Varanidae,52,clelandi,reptile,lizard,monitorlizard,Varanus bengalensis,6,4,8,NA,Hemoparasites of the Reptilia,NA,Yes,No
+Human,26,vivax,mammal,primate,human,human,16,12,24,48,Foundations of Parasitology,NA,No,No
+Chamaeleonidae,53,brygooi,reptile,chameleon,chameleon,Calumma brevicorne,13,10,16,NA,Hemoparasites of the Reptilia,NA,Yes,No
+Chamaelonidae,54,robinsoni,reptile,lizard,chameleon,Calumma brevicorne; Calumma parsonii,57,40,74,NA,Hemoparasites of the Reptilia,NA,Yes,No
+Human,27,knowlesi,mammal,primate,"human, chimpanzees","human, chimpanzees",16,NA,NA,24,The Primates Malaria,NA,No,No
+Alaudidae,50,reniai,avian,avian,avian,Alauda arvensis,30,NA,NA,NA,Plasmodium (Apicomplexa) of the skylark (Alauda arvensis),https://doi.org/10.5252/z2009n2a8,No,Yes
+Alaudidae,51,sergentorum,avian,avian,avian,Alauda arvensis,4,NA,NA,NA,"Species of Plasmodium of passerine birds with four nuclei, with description of new species",https://doi.org/10.2478/s11686-008-0046-3,No,Yes
+Chamaeleonidae,55,acuminatum,reptile,lizard,iguana,Kinyongia fischeri,7,6,9,NA,Hemoparasites of the Reptilia,NA,Yes,Yes
+Chamaeleonidae,56,fischeri,reptile,lizard,chameleon,Kinyongia fischeri,23,21,25,NA,Hemoparasites of the Reptilia,NA,Yes,No
+Chamaelonidae,57,gologoloense,reptile,lizard,chameleon,Bradypodion oxyrhinum,10,6,14,NA,Hemoparasites of the Reptilia,NA,Yes,No
+Hirundinidae,52,delichoni,avian,avian,avian,Delichon urbicum,7,4,10,,"Plasmodium delichoni n. sp.: description, molecular characterisation and remarks on the exoerythrocytic merogony, persistence, vectors and transmission",https://doi.org/10.1007/s00436-016-5009-2,No ,No
+Chamaelonidae,58,michikoa,reptile,lizard,chameleon,Bradypodion oxyrhinum ,22,12,32,NA,Hemoparasites of the Reptilia,NA,Yes,No
+Hirundinidae,53,polare,avian,avian,avian,"Petrochelidon pyrrhonota, Agelaius phoeniceus, Spatula discors, A.  platyrhynchos,Dendrocygna viduata,Emberiza citrinella, Falco tinnunculus, Ortygornis pondicerianus, Grus canadensis,Haliaeetus leucocephalus,Hirundo cucullata,Icteria virens,Nothura maculosa,Poecile atricapillus, Passer domesticus,Piranga rubra,Pycnonotus jocosus, Thamnophilus aethiops,Turdus migratorius,Tympanuchus phasianellus,Zenaida macroura,Zonotrichia albicollis",11,6,16,24,Avian Malarial Parasites and Other Haemosporidia,NA,Yes,No
+Acrocephalidae,54,ashfordi,avian,avian,avian,"Acrocephalus arundinaceus, A. scirpaceus,A. gracilirostris, Sylvia borin,Phylloscopus trochilus, Hippolais polyglotta
+",7,4,10,NA,"Linkage between mitochondrial cytochrome b lineages and morphospecies of two avian malaria parasites, with a description of Plasmodium (Novyella) ashfordi ",https://doi.org/10.1007/s00436-006-0409-3,Yes,No
+Acrocephalidae,55,bilobatus,avian,avian,avian,Acrocephalus schoenobaenus,6,7,8,NA,Malarial infections in sedentary and migratory passerine birds in Israel: description of new species,PMID: 22320017,No ,Yes
+Chamaeleonidae,59,arachniformis,reptile,lizard,chameleon,Trioceros werneri,8,4,12,NA,Hemoparasites of the Reptilia,NA,Yes,No
+Chamaeleonidae,60,tanzaniae,reptile,lizard,chameleon,Chamaeleo werneri,15,8,22,NA,Hemoparasites of the Reptilia,NA,Yes,No
+Chamaeleonidae,61,uzungwiense,reptile,lizard,chameleon,Chamaeleo werneri,8,4,12,NA,Hemoparasites of the Reptilia,NA,Yes,No
+Agamidae,62,australis,reptile,lizard,lizard,Pogona barbata ,35,22,49,NA,Hemoparasites of the Reptilia,NA,Yes,No
+Pycnonotidae,56,globularis,avian,avian,avian,Eurillas latirostris,4,NA,NA,NA,"New species of haemosporidian parasites (Haemosporida) from African rainforest birds, with remarks on their classification",https://doi.org/10.1007/s00436-008-1118-x,Yes ,No
+Human,28,malariae,mammal,primate,"human, chimpanzees","human, chimpanzees",8,4,12,72,Foundations of Parasitology;  Primate malaria,NA; NA,No,No
+Agamidae,63,agamae,reptile,lizard,lizard,"Agama agama, Acanthocercus atricollis, Agame hispada aculeata",8,4,15,NA,Hemoparasites of the Reptilia,NA,Yes,No
+"Pycnonotidae
+",57,multivacuolaris,avian,avian,avian,Eurillas latirostris,6,4,6,NA,"New malaria parasites of the subgenus Novyella in African rainforest birds, with remarks on their high prevalence, classification and diagnostics",https://doi.org/10.1007/s00436-008-1289-5,Yes,No
+Leiothrichidae,58,tenue,avian,avian,avian,Liothrix luthreus,4,2,6,NA,"Plasmodium tenue Laveran and Marullaz, 1914",https://doi.org/10.1111/j.1550-7408.1970.tb05167.x,No,No
+Agamidae,64,giganteum,reptile,lizard,lizard,Agama agama; Agama mossambica,51,28,100,NA,Hemoparasites of the Reptilia,NA,Yes,No
+Muscicapidae,59,alloreticulatus,avian,avian,avian,Luscinia svecica,4,2,6,NA,Malarial infections in sedentary and migratory passerine birds in Israel: description of new species,PMID: 22320017,No ,Yes
+Agamidae,65,kyaii,reptile,reptile,lizard,Agama agama ,6,6,9,NA,Saurian malaria in Kenya: Description of ten new species from West Pokot District,https://doi.org/10.1017/S1742758400003672,No,No
+Tropiduridae,66,mossambica,reptile,lizard,lizard,Agama mossambica ,20,6,34,NA,Hemoparasites of the Reptilia,NA,Yes,No
+Agamidae,67,caucasica,reptile,lizard,lizard,Paralaudakia caucasia,47,32,67,NA,"Plasmodium, Saurocytozoon and Haemocystidium parasites (Apicomplexa: Plasmodiidae) from the rock agama, Laudakia caucasia (Sauria: Agamidae), in southern Asia",https://doi.org/10.14411/fp.2013.025,Yes ,No
+Agamidae,68,draconis,reptile,lizard,flyinglizard,Draco volans,11,4,18,NA,Hemoparasites of the Reptilia,NA,Yes,No
+Agamidae,69,vastator,reptile,lizard,flyinglizard,Draco volans,6,4,8,NA,Hemoparasites of the Reptilia,NA,Yes,No
+Agamidae,70,volans,reptile,lizard,flyinglizard,Draco volans,5,4,6,NA,Hemoparasites of the Reptilia,NA,Yes,No
+Tropiduridae,71,uranoscodoni,reptile,lizard,iguana,Uranoscodon superciliosa,11,6,16,NA,Hemoparasites of the Reptilia,NA,Yes,No
+Tropiduridae,72,ouropretensis,reptile,reptile,lizard,Tropidurus torquatus; Tropidurus hispidus,14,3,36,NA,"Plasmodium ouropretensis, n. sp., a new case of non-erythrocytic species within lizard malaria parasites",https://doi.org/10.1017/S0031182021000895,Yes,No
+Tropidurae,73,tropiduri,reptile,lizard,lizard,"Tropidurus torquatus; Species of the families Tropiduridae, Polychrotidae, and Scincidae",14,4,24,NA,Hemoparasites of the Reptilia,NA,Yes,No
+Tropidurae,74,tropiduri tropiduri,reptile,lizard,lizard,"Tropidurus torquatus, T. hispidus, Mabuya mabouya",14,4,24,NA,Hemoparasites of the Reptilia,NA,Yes,No
+Muscicapidae,60,lusciniae,avian,avian,avian,Luscinia svecica,6,NA,NA,NA,Malarial infections in sedentary and migratory passerine birds in Israel: description of new species,PMID: 22320017,No,Yes
+Tropiduridae,75,audaciosa,reptile,lizard,iguana,Plica umbra,100,50,150,NA,Hemoparasites of the Reptilia,NA,Yes,No
+Tropidurae,76,minasense plicae,reptile,lizard,lizard,"Plica umbra, Plica plica",6,4,8,NA,Hemoparasites of the Reptilia,NA,Yes,No
+Phrynosomatidae,77,multiformis,reptile,lizard,lizard,Plica umbra,9,4,14,NA,Hemoparasites of the Reptilia,NA,Yes,No
+Muscicapidae,61,paranuclearis,avian,avian,avian,Luscinia svecica,6,NA,6,NA,Malarial infections in sedentary and migratory passerine birds in Israel: description of new species,PMID: 22320017,No,No
+Muscicapidae,62,phoenicuri ,avian,avian,avian,Phoenicurus phoenicurus,5,NA,8,NA,"""Malarial infections in sedentary and migratory passerine birds in Israel: description of new species",PMID: 22320017,No,No
+Tropiduridae,78,vacuolatum,reptile,lizard,lizard,Plica umbra,14,8,20,NA,Hemoparasites of the Reptilia,NA,Yes,No
+Muscicapidae,63,reticulatus,avian,avian,avian,Phoenicurus phoenicurus,4,NA,NA,NA,Malarial infections in sedentary and migratory passerine birds in Israel: description of new species,PMID: 22320017,No,Yes
+Human,29,cynomolgi,mammal,primate,"monkeys, humans","human, Macaca fascicularis, M. nemestrina,
+M. radiata, M. cylopis, M. sinica, M. mulatta,
+Trachypithecus cristatus, Semnopithecus entellus
+",16,14,20,48,The Primates Malaria,NA,No ,No
+Muscicapidae,64,stellatum,avian,avian,avian,Muscicapa striata,4,NA,NA,NA,"Species of Plasmodium of passerine birds with four nuclei, with description of new species",https://doi.org/10.2478/s11686-008-0046-3,No,Yes
+Tropiduridae,79,guyannense,reptile,lizard,lizard,Plica plica,57,40,74,NA,Hemoparasites of the Reptilia,NA,Yes,No
+Sciuridae,30,watteni,mammal,rodent,flyingsquirrel,Petaurista petaurista,13,7,18,,"Plasmodium (Vinckeia) watteni sp. n. from the Formosan Giant Flying Squirrel, Petaurista petaurista grandis ",https://doi.org/10.2307/3276986,No,No
+Muscicapidae,65,parahexamerium,avian,avian,avian,Alethe diademata,6,6,6,NA,"New malaria parasites of the subgenus Novyella in African rainforest birds, with remarks on their high prevalence, classification and diagnostics",https://doi.org/10.1007/s00436-008-1289-5,No,No
+Turdidae,66,giovannolai,avian,avian,avian,Turdus merula,18,10,30,24,Avian Malarial Parasites and Other Haemosporidia,,Yes,No
+Turdidae,67,merulae,avian,avian,avian,Turdus merula,6,NA,NA,NA,Malarial infections in sedentary and migratory passerine birds in Israel: description of new species,PMID: 22320017,No,No
+Turdidae,68,circumflexum_1,avian,avian,avian,Turdus pilaris,16,8,30,24,Avian Malarial Parasites and Other Haemosporidia,NA,Yes,No
+Turdidae,69,circumflexum_2,avian,avian,avian,Turdus pilaris,16,8,30,48,Avian Malarial Parasites and Other Haemosporidia,NA,Yes,No
+Turdidae,70,matutinum,avian,avian,avian,"Turdus migratorius,  T. merula
+T. pilaris, T. iliacus, Columba livia, Hylocichla mustelina, Passer domesticus, Zenaida macroura,",17,10,24,24,Avian Malarial Parasites and Other Haemosporidia,NA,Yes,No
+Tropiduridae,80,uncinatum,reptile,lizard,lizard,Plica plica,13,8,18,NA,Hemoparasites of the Reptilia,NA,Yes,No
+Sciuridae,31,booliati,mammal,mammal,rodent,Petaurista petaurista,6,4,8,NA,"Plasmodium (Vinckeia) watteni sp. n. from the Formosan Giant Flying Squirrel, Petaurista petaurista grandis",https://www.cabdirect.org/cabdirect/abstract/19662901335,No ,No
+Iguanidae,81,iguanae,reptile,lizard,iguana,Iguana iguana,15,6,25,NA,Hemoparasites of the Reptilia,NA,Yes,No
+Hystricidae,32,atheruri,mammal,rodent,porcupine,Atherurus africanus,10,8,16,24,Malaria Parasites and Other Haemosporidia; [Studies on Plasmodium atheruri],NA; https://doi.org/10.1051/parasite/1983586523,No,No
+Turdidae,71,vaughani,avian,avian,avian,"Turdus migratorius,Anseriformes,Apodiformes, Charadriiformes, Columbiformes, Coraciiformes, Cuculiformes, Piciformes, and some
+others but particularly of the Passeriformes (over 240 species total).",6,4,8,NA,Avian Malarial Parasites and Other Haemosporidia,NA,Yes,No
+Turdidae,72,hexamerium,avian,avian,avian,"Sialia sialis, of orders Columbiformes
+and Strigiformes but it is particularly common in species of the Passeriformes (over 40 species total)",6,4,8,NA,Avian Malarial Parasites and Other Haemosporidia,NA,Yes ,No
+Iguanidae,82,minasense carinii,reptile,lizard,iguana,Iguana iguana,6,4,8,NA,Hemoparasites of the Reptilia,NA,Yes,No
+Turdidae,73,unalis ,avian,avian,avian,Turdus fuscater,5,3,8,NA,Description and molecular characterization of Plasmodium (Novyella) unalis sp. nov. from the Great Thrush (Turdus fuscater) in highland of Colombia,https://doi.org/10.1007/s00436-013-3611-0,Yes,No
+Anomaluridae,33,anomaluri,mammal,rodent,rodent,Anomalurus derbianus,8,NA,NA,NA,Two New Malaria Parasites from East African Vertebrates,https://doi.org/10.1016/0035-9203(60)90085-7,No,No
+Iguanidae,83,rhadinurum,reptile,lizard,iguana,"Iguana iguana rhinolopha, Iguana i. iguana
+Ctenosaura similis",5,4,6,NA,Hemoparasites of the Reptilia,NA,Yes,No
+Mimidae,74,nucleophilum,avian,avian,avian,"Dumetella carolinensis; Anseriformes,
+Columbiformes, Piciformes and some others, but particularly common in species of the Passeriformes
+(over 60 species total)",6,4,12,24,Avian Malarial Parasites and Other Haemosporidia,NA,Yes,No
+Viduidae,75,octamerium,avian,avian,avian,"Vidua macroura, Estrilda astrild, Euplectes macrourus, Lamprotornis chalybaeus,
+Passer melanurus, P. domesticus",8,6,16,24,Avian Malarial Parasites and Other Haemosporidia,NA,Yes,No
+Anomaluridae,34,landauae,mammal,mammal,rodent,Anomalurus peli,12,12,NA,NA,Parasitic protozoa of the blood of rodents. III. Two new malaria parasites of Anomalurine flying squirrels of the Ivory Coast.,https://doi.org/10.1051/parasite/1973485639,No,Yes
+Phrynosomatidae,84,mexicanum,reptile,lizard,lizard,"Sceloporus melanogaster, S. occidentalis, S. graciosus, S. undulatus, S. microlepidotus,   S.wood,  S. spinosus, S. jarrovi, S. magister, Elgaria multicarinata, Ctenosaura  hemophila, 
+Phrynosoma coronatum, P. platyrhinos, G. multicarinatus",14,10,20,96,Hemoparasites of the Reptilia,NA,Yes,No
+Anomaluridae,35,pulmophilum,mammal,mammal,rodents,Anomalurus peli; Anomalurus derbianus,8,6,10,NA,Parasitic protozoa of the blood of rodents III. Two new malaria parasites of Anomalurine flying squirrels of the Ivory Coast,https://doi.org/10.1051/parasite/1973485639,No,No
+Passeridae,76,bigueti,avian,avian,avian,Passer domesticus,10,8,12,NA,"Taxonomic status and re-description of Plasmodium relictum (Grassi et Feletti, 1891), Plasmodium maior Raffaele, 1931, and description of P. bigueti n. sp. in sparrows",https://europepmc.org/article/med/15267099,No ,No
+Passeridae,77,cathemerium,avian,avian,avian,Passer domesticus and 50 other species in other orders,16,6,24,24,Avian Malarial Parasites and Other Haemosporidia,NA,Yes,No
+Passeridae,78,leanucleus,avian,avian,avian,"Passer domesticus, Pycnonotus jocosus",10,6,14,24,Avian Malarial Parasites and Other Haemosporidia,NA,Yes,No
+Phrynosomatidae,85,beltrani,reptile,lizard,lizard,"Sceloporus variabilis, S.teapensis, S. taeniocnemis",35,23,48,NA,Hemoparasites of the Reptilia,NA,Yes,No
+Phrynosomatidae,86,chiricahuae,reptile,lizard,lizard,"Sceloporus jarrovi, S. clarki, S. magister, S. poinsetti, U. inornatus",7,4,10,NA,Hemoparasites of the Reptilia,NA,Yes,No
+Phrynosomatidae,87,brumpti,reptile,lizard,lizard,Sceloporus horridus,17,12,22,NA,Hemoparasites of the Reptilia,NA,Yes,No
+Muridae,36,aegyptensis,mammal,rodent,rodent,Arvicanthis niloticus ,6,4,8,NA,Description de Plasmodium aegyptensis n. sp. parasite présumé du Muridé Arvicanthis niloticus en Haute-Égypte,https://doi.org/10.1051/parasite/1975504419,No,No
+Passeridae,79,maior,avian,avian,avian,Passer domesticus,22,20,24,NA,"Taxonomic status and re-description of Plasmodium relictum (Grassi et Feletti, 1891), Plasmodium maior Raffaele, 1931, and description of P. bigueti n. sp. in sparrows",PMID: 15267099,No,No
+Muridae,37,berghei,mammal,rodent,rodent,Grammomys surdaster,13,6,20,23.5,Malaria Parasites and Other Haemosporidia;,NA,No,No
+Phrynosomatidae,88,floridense,reptile,lizard,lizard,"Sceloporus undulatus, S. formosus, Anolis carolinensis",18,4,32,NA,Hemoparasites of the Reptilia,NA,Yes,No
+Phrynosomatidae,89,scelopori,reptile,lizard,lizard,Sceloporus teapensis; Sceloporus variabilis,7,4,10,NA,Hemoparasites of the Reptilia,,Yes,No
+Phrynosomatidae,90,pelaezi,reptile,lizard,lizard,Urosaurus b. bicarinatus,16,NA,NA,NA,Hemoparasites of the Reptilia,NA,Yes,No
+Leiosauridae,91,vautieri,reptile,lizard,iguana,Urostrophus vautieri,15,10,20,NA,Hemoparasites of the Reptilia,NA,Yes,No
+Muridae,38,yoelii,mammal,rodent,rodent,Grammomys surdaster; Thamnomys rutilans,20,NA,NA,18,Malaria Parasites and Other Haemosporidia; The contribution of Plasmodium chabaudi to our understanding of malaria,NA; https://doi.org/10.1016/j.pt.2011.10.006,No,No
+Cortophanidae,92,achiotense,reptile,lizard,basilisk,Basiliscus basiliscus,46,36,56,NA,Hemoparasites of the Reptilia,NA,Yes,No
+Passeridae,80,mohammedi,avian,avian,avian,Passer domesticus,4,NA,NA,NA,"Species of Plasmodium of passerine birds with four nuclei, with description of new species ",https://doi.org/10.2478/s11686-008-0046-3,No,Yes
+Muridae,39,chabaudi,mammal,rodent,rodent,Thamnomys rutilans,8,4,10,24,Malaria Parasites and Other Haemosporidia; The contribution of Plasmodium chabaudi to our understanding of malaria,NA; https://doi.org/10.1016/j.pt.2011.10.006,No ,No
+Muridae,40,vinckei,mammal,rodent,rodent,Thamnomys rutilans,8,6,10,24,Malaria Parasites and Other Haemosporidia;The contribution of Plasmodium chabaudi to our understanding of malaria,NA; https://doi.org/10.1016/j.pt.2011.10.006,No,No
+Hipposideridae,41,cyclopsi,mammal,bat,bat,Doryrhina cyclops ,8,NA,NA,NA,Description of P. cyclopsi n. sp. a parasite of the Microchiropteran Bat Hipposideros cyclops in Gabon,https://doi.org/10.1051/parasite/1978533247,No ,Yes
+Passeridae,81,relictum,avian,avian,avian,"Passer hispaniolensis, but can infect a wide variety of birds including zoo penguins--most common avian malaria)",17,6,32,33,Avian Malarias,NA,Yes,No
+Passeridae,82,rouxi,avian,avian,avian,"Of the orders Apodiformes, Galliformes, Gruiformes, Piciformes, and some others, but particularly of the Passeriformes (over 60 species total))",4,NA,NA,NA,Avian Malarial Parasites and Other Haemosporidia,NA,Yes,No
+,83,pachysomum,avian,avian,avian,Anthus campestris,4,NA,NA,NA,"Species of Plasmodium of passerine birds with four nuclei, with description of new species ",https://doi.org/10.2478/s11686-008-0046-3,No,Yes
+Cortophanidae,93,basilisci,reptile,lizard,basilisk,"Basiliscus vittatus, B. basiliscus,B. galerita,
+B. plumifrons ",9,4,14,NA,Hemoparasites of the Reptilia,NA,Yes,No
+Motacillidae,84,elongatum,avian,avian,avian,"Serinus canaria; Anseriformes,
+Falconiformes, Columbiformes, Sphenisciformes, Strigiformes, and some others but particularly of
+the Passeriformes (over 60 species total)",9,6,12,24,Avian Malarial Parasites and Other Haemosporidia,NA,Yes,No
+Dactyloidae,94,marginatum,reptile,lizard,lizard,Anolis frenatus,5,3,8,NA,Hemoparasites of the Reptilia,NA,Yes,No
+Fringillidae,85,homocircumflexum,avian,avian,avian,"Serinus canaria domestica,  Spinus spinus, Loxia curvirostra",15,10,24,24,"Description of the first cryptic avian malaria parasite, Plasmodium homocircumflexum n. sp., with experimental data on its virulence and development in avian hosts and mosquitoes.",https://doi.org/10.1016/j.ijpara.2014.08.012,Yes ,No
+Dactyloidae,95,utingensis,reptile,lizard,lizard,Anolis punctatus,10,8,12,NA,Hemoparasites of the Reptilia,NA,Yes,No
+Dactyloidae,96,azurophilum,reptile,lizard,lizard,"Anolis cybotes, A. distichus, A. chlorocyanus, Anolis bahorucoensis, A.lineatopus, A.grahami,    A. krugi, A.acutus,  A. gundlachi, A.evermanni, A.stratulus, A. cristatellus,  A. schwartzi,  A. oculatus,  A. abanus, A. marmoratus,  A. bimaculatus,  A.trinitatis,  A. richardii, A. roquet ",28,8,46,NA,Hemoparasites of the Reptilia,NA,No ,No
+Pteropodidae,42,roussetti,mammal,bat,bat,Myonycteris angolensis,5,2,8,NA,"Description of a plasmodium found in a bat, Roussettus leachi",https://doi.org/10.1017/S0031182000084109,No,No
+Fringillidae,87,megaglobularis,avian,avian,avian,Certhidea olivacea,4,4,4,NA,"New species of haemosporidian parasites (Haemosporida) from African rainforest birds, with remarks on their classification",https://doi.org/10.1007/s00436-008-1118-x,No,No
+Dactyloidae,97,leucocytica,reptile,lizard,lizard,Anolis cybotes,33,14,52,NA,Hemoparasites of the Reptilia,NA,Yes,No
+Dactyloidae,98,tropiduri caribbense,reptile,lizard,lizard,"Anolis cybotes, A. lineatopus",9,5,14,NA,Hemoparasites of the Reptilia,NA,Yes,No
+Dactyloidae,99,fairchildi hispaniolae,reptile,lizard,lizard,Anolis distichus,11,8,14,NA,Hemoparasites of the Reptilia,NA,Yes,No
+Dactyloidae,100,balli ,reptile,lizard,lizard,"Anolis lionotus, A. poecilopus, A. limifrons,A. lemurinus, A. humilis ,A. frenatus, A. uscoauratus ",57,15,100,NA,Hemoparasites of the Reptilia,NA,Yes,No
+Dactyloidae,101,tropiduri aquaticum,reptile,lizard,lizard,"Anolis lionotus, A. poecilopus",9,4,14,NA,Hemoparasites of the Reptilia,NA,Yes,No
+Dactyloidae,102,fairchildi,reptile,lizard,lizard,"Anolis limifrons, A. cupreus, A.fuscoauratus",9,6,12,NA,Hemoparasites of the Reptilia,NA,Yes,No
+Dactyloidea,103,minasense anolisi,reptile,lizard,lizard,"Anolis limifrons, A. cybotes, A. distichus, and A. chlorocyanus",7,4,10,NA,Hemoparasites of the Reptilia,NA,Yes,No
+Thraupidae,88,paranucleophilum,avian,avian,avian,"Tachyphonus sp, Pulsatrix koeniswaldiana, Rupornis magnirostris, Asio clamator, Falco peregrinus, Buteo brachyurus, and Caracara plancus",8,4,12,NA,Avian Malarial Parasites and Other Haemosporidia: Multidisciplinary re-description of Plasmodium (Novyella) paranucleophilum in Brazilian wild birds of the Atlantic Forest kept in captivity,NA; https://doi.org/10.1007/s00436-017-5465-3,Yes,No
+Dactyloidae,104,minasense capitoi,reptile,lizard,lizard,Anolis capito,6,4,8,NA,Hemoparasites of the Reptilia,NA,Yes,No
+Dactyloidae,105,tropiduri panamense,reptile,lizard,lizard,"Anolis biporcatus, A. pentaprion",11,4,18,NA,Hemoparasites of the Reptilia,NA,Yes,No
+Dactyloidae,106,colombiense,reptile,lizard,lizard,Anolis auratus,9,4,14,NA,Hemoparasites of the Reptilia,NA,Yes,No
+Dactyloidae,107,torrealbai,reptile,lizard,lizard,Anolis sp. indet,14,8,20,NA,Hemoparasites of the Reptilia,NA,Yes,No
+Pythonidae,108,pythonis,reptile,snake,snake,Python sebae,9,2,16,NA,Hemoparasites of the Reptilia,NA,Yes,No
+Passerellidae,89,homopolare,avian,avian,avian,Melospiza melodia,6,6,8,NA,"Description, molecular characterization, and patterns of distribution of a widespread New World avian malaria parasite (Haemosporida: Plasmodiidae), Plasmodium (Novyella) homopolare sp. nov.",https://doi.org/10.1007/s00436-014-3995-5,Yes ,Yes
+Viperidae,109,bitis,reptile,snake,snake,Bitis arietans,13,2,24,NA,Hemoparasites of the Reptilia,NA,Yes ,Yes
+Thraupidae,90,lucens,avian,avian,avian,Certhidea olivacea,9,6,12,NA,"New malaria parasites of the subgenus Novyella in African rainforest birds, with remarks on their high prevalence, classification and diagnostics",https://doi.org/10.1007/s00436-008-1289-5,Yes,No
+Elapidae,110,melanoleuca,reptile,snake,snake,Naja melanoleuca,8,2,16,NA,Hemoparasites of the Reptilia,NA,Yes,No
+Pteropodidae,43,voltaicum,mammal,bat,bat,Myonycteris angolensis,12,NA,14,NA,"Description of a New Plasmodium, Plasmodium Voltaicum Sp.Nov., Found in a Fruit-Bat, Roussettus Smithi, in Ghana",https://doi.org/10.1080/00034983.1964.11686241,No,No
+Tragulidae,44,traguli,mammal,ungulates,chevrotain,Tragulus javanicus,6,4,8,NA,Two new malaria parasites of the Malayan mousedeer,https://www.cabdirect.org/cabdirect/abstract/19632900011,No,No
+Colubridae,111,tomodoni,reptile,snake,snake,Tomodon dorsatus,46,27,66,NA,Hemoparasites of the Reptilia,NA,Yes,No
+Cervidae,45,odocoilei,mammal,mammal,ungulate,Odocoileus virginianus,22,20,24,NA,A Malaria Parasite of the White-Tailed Deer (Odocoileus virginianus) and its Relation with Known Species of Plasmodium in Other Ungulates,https://doi.org/10.1098/rspb.1980.0003,No,No
+Bovidae,46,bubalis,mammal,bovid,water buffalo,Bubalus bubalis,11,7,14,72,Malaria Parasites and Other Haemosporidia;,NA,No ,No
+Colubridae,112,wenyoni,reptile,snake,snake,Thamnodynastes pallidus,13,12,14,NA,Hemoparasites of the Reptilia,,Yes,No
+Bovidae,47,brucei,mammal,antelope,duiker,Sylvicapra grimmia,16,NA,NA,48,Malaria Parasites and Other Haemosporidia; Investigations on the Duiker (Sylvicapra grimmia) and its Blood Protozoa in Central Africa,https://doi.org/10.1098/rstb.1969.0003,No ,No
+Bovidae,48,cephalophi,mammal,antelope,duiker,Sylvicapra grimmia,27,24,30,72,Malaria Parasites and Other Haemosporidia; Studies on Plasmodium (Vinckeia) cephalophi of the grey duiker (Sylvicapra grimmia),NA; https://doi.org/10.1080/00034983.1966.11686396,No ,No
+Colubridae,113,pessoai,reptile,snake,snake,"Spilotes pullatus, Lachesis muta",27,22,32,NA,Hemoparasites of the Reptilia,NA,Yes,No
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
