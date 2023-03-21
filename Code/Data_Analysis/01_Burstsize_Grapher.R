@@ -18,7 +18,7 @@ mal_reptile <- subset(mal_dat, mal_dat$OrderHost == 'reptile')
 avian_species_order <- mal_avian$Plasmodium.species[order(mal_avian$Order)]
 mal_avian$Plasmodium.species <- factor(mal_avian$Plasmodium.species,
                                        levels = avian_species_order)
-
+mal_avian <- subset(mal_avian, mal_avian$Include == "")
 ###Mammal###
 mam_species_order <- mal_mammal$Plasmodium.species[order(mal_mammal$Order)]
 mal_mammal$Plasmodium.species <- factor(mal_mammal$Plasmodium.species,
@@ -35,22 +35,22 @@ mal_avian_GG <-
   ggplot(mal_avian, 
         aes(x = Average, 
             y = Plasmodium.species, 
-            fill=Forms)) +
+            fill=Subgenus)) +
    geom_segment(data=mal_avian,
          aes(x = Lower, 
              xend = Upper, 
              y = Plasmodium.species,
              yend = Plasmodium.species))+
    geom_point(shape = 21, 
-              size = 3) + 
+              size = 3
+              ) + 
    xlab("Burst size")+
    ylab("Plasmodium species")+
    scale_x_continuous(breaks=seq(0,40,5))+
    scale_y_discrete(limits = rev) + 
-   scale_fill_viridis(discrete = TRUE)+
+   scale_color_viridis()+
    theme_classic()+
-   theme(legend.position="none",
-         axis.text = element_text(size = 11.5, 
+   theme(axis.text = element_text(size = 11.5, 
                                   face = 'italic'),
          axis.title = element_text(size = 14))
 
