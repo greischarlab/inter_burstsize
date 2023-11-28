@@ -11,7 +11,7 @@ mal_dat_split <- split(mal_dat, mal_dat$OrderHost)
 
 ###Main burst size distribution 
 mal_dat_gg <- ggplot(mal_dat, 
-                    aes(x = Average,
+                    aes(x = Upper,
                         fill = OrderHost))+ 
               geom_dotplot(
                     binwidth = 1,
