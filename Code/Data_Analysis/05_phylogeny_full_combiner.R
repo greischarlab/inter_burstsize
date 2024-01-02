@@ -1,10 +1,12 @@
 ###This cleans up the phylogenetic trees and makes it 
 ###ready for data-analysis - run this entire script
 ###
-
+library(here)
 library(ape)
 library(phylobase)
 library(adephylo)
+library(stringr)
+library(TreeTools)
 
 source(here("Code","Functions","Parasite_Host_Unifier.R"))
 
@@ -139,6 +141,8 @@ Reptile_MERGED_F <- subset(REP_Merged_F,
 
 consensus_Reptile_Tree_FINAL <- keep.tip(consensus_Reptile_Tree,
                                            Reptile_MERGED_F$Species)
+
+plot(consensus_Reptile_Tree_FINAL , "f", FALSE)
 #########################
 ###I NEED A SUPER TREE###
 #########################
@@ -189,5 +193,28 @@ FULL_ORDER_FINAL <- keep.tip(mam_3 ,FULL_DAT$Species)
 
 FULL_Merged_Phylogeny<- phylo4d(
   FULL_ORDER_FINAL , 
-                  tip.data=FULL_DAT[,1],
-                  match.data=TRUE)
+  tip.data=FULL_DAT[,1],
+  match.data=TRUE)
+
+Reptile_Data_Merged_Phylogeny <- phylo4d(
+  keep.tip(consensus_Reptile_Tree, Reptile_MERGED_F$Species),
+  tip.data =  Reptile_MERGED_F[,1],
+  match.data = TRUE
+)
+
+Mammal_Data_Merged_Phylogeny <- phylo4d(
+  keep.tip(consensus_Mammal_Tree, Mammal_MERGED_F$Species),
+  tip.data =  Mammal_MERGED_F[,1],
+  match.data = TRUE
+)
+
+Avian_Data_Merged_Phylogeny <- phylo4d(
+  keep.tip(consensus_Avian_Tree, Avian_MERGED_F$Species),
+  tip.data =  Avian_MERGED_F[,1],
+  match.data = TRUE
+)
+
+
+plot(Reptile_Data_Merged_Phylogeny)
+
+plot(FULL_Merged_Phylogeny)
