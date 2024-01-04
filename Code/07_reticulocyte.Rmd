@@ -1,0 +1,115 @@
+---
+title: "07_reticulocyte_Stats"
+output: html_notebook
+---
+
+```{r}
+library(here)
+library(ape)
+library(nlme)
+source(here("Code","Data_Analysis","05_phylogeny_full_combiner.R"))
+```
+
+### Mammal trait data
+
+I have the mammal trait data that gives me information about mammal species. I'm interested in the reticulocyte number, which is dependent on the mass, and if there is a relationship on the upper burst size. Below, I read in my trait data and then figured out what the species name that I have in the phylogeny tree.
+
+```{r}
+Mammal_trait_dat <- read.csv(here("Data","Mammal_trait.csv"))
+
+Mammal_Tree_Species <- sub( "_"," ",consensus_Mammalian_Tree_FINAL$tip.label,)
+
+###This combines the trait data as well as the phylogenetic data
+Mammal_Trait_Data <- subset(Mammal_trait_dat,    Mammal_trait_dat$phylacine_binomial %in%
+                            Mammal_Tree_Species)
+
+```
+
+```{r}
+Mammal_Trait_Data_2 <- Mammal_Trait_Data[!duplicated(Mammal_Trait_Data$phylacine_binomial), ]
+
+###We want the adult_mass_g and the max_longevity_d
+Mammal_Trait_Data_2_MASS <- Mammal_Trait_Data_2[,c("order","family","genus","phylacine_binomial",
+                              "adult_mass_g", "max_longevity_d")]
+
+###This gets rid of the duplicated entries that was already in the ###trait data set
+Mammal_Trait_Data_2 <-Mammal_Trait_Data_2_MASS[!duplicated(Mammal_Trait_Data_2_MASS$phylacine_binomial), ]
+```
+
+### Calculating the reticulocyte count from body mass
+
+We use "The Evolution of Mammalian Blood Parameters: Patterns and Their Interpretation" by Promislow 1991
+
+$$ log (reticulocytes) = 0.96 - 0.288\times log(mass)$$
+
+```{r}
+###We calculate the reticulocyte based on the mammal mass
+Mammal_Trait_Data_2_MASS$reticulocyte_log<- (((0.96 - 0.288 * log(Mammal_Trait_Data_2_MASS $adult_mass_g)))) 
+
+Mammal_Trait_Data_2_MASS$reticulocyte_log <- sign(Mammal_Trait_Data_2_MASS$reticulocyte_log)*abs(Mammal_Trait_Data_2_MASS$reticulocyte_log)^1/3
+
+
+Mammal_Trait_Data_2_MASS$phylacine_binomial <- sub(" ","_", Mammal_Trait_Data_2_MASS$phylacine_binomial)
+
+```
+
+```{r}
+###combine the mammal trait data and the burst size
+Data_Mammal_Mass_Retic <- merge(Mammal_MERGED_F,
+                                    Mammal_Trait_Data_2_MASS, 
+                                    by.x = "Species", 
+                                    by.y = "phylacine_binomial")
+
+row.names(Data_Mammal_Mass_Retic) <- Data_Mammal_Mass_Retic$Species
+```
+
+This is the mammalian tree that I made sure have only the species
+
+```{r}
+Mammal_Tree_Data_Found <- keep.tip(consensus_Mammalian_Tree_FINAL,
+                                   Data_Mammal_Mass_Retic$Species)
+```
+
+Ensure that the order of the data is the same as the order of the tree
+
+```{r}
+Data_Mammal_Mass_Retic<- Data_Mammal_Mass_Retic[match(Mammal_Tree_Data_Found$tip.label,rownames(Data_Mammal_Mass_Retic)),]
+
+```
+
+### Statistical tests (With the package caper)
+
+Need to create a comparative data object for caper.
+
+```{r}
+mammal_malaria <- comparative.data(phy = Mammal_Tree_Data_Found, data = Data_Mammal_Mass_Retic, names.col = Species, vcv = TRUE, warn.dropped = TRUE)
+
+```
+
+```{r}
+
+model.pgls_Total<- pgls(sqrt(Upper)~reticulocyte_log +log(max_longevity_d), data = mammal_malaria, lambda = "ML")
+summary(model.pgls_Total)
+
+model.pgls_Subset_1<- pgls(sqrt(Upper)~ log(max_longevity_d), data = mammal_malaria, lambda = "ML")
+summary(model.pgls_Subset_1)
+
+model.pgls_Subset_2<- pgls(sqrt(Upper)~ reticulocyte_log, data = mammal_malaria, lambda = "ML")
+summary(model.pgls_Subset_2)
+
+```
+
+```{r}
+AIC(model.pgls_Total, model.pgls_Subset_1,model.pgls_Subset_2)
+```
+
+The one model with athe max_longevity seems to have the lowest AIC!
+
+```{R}
+plot(model.pgls_Subset_1)
+```
+
+```{r}
+profile_lambda=pgls.profile(model.pgls_Subset_1, which="lambda") # vary lambda
+plot(profile_lambda)
+```

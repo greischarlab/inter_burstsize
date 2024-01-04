@@ -33,12 +33,16 @@ AVE_Phylo <- read.nexus(here("Data", "Avian_dat", 'avian_phylo.nex'))
 #############
 MAM_Host_Dat <- subset(Malaria_Host_Dat,
                          Malaria_Host_Dat$Group == 'mammal')
-MAM_Phylo <- read.nexus(here("Data", "Mammal_dat", 'mammal_phylo.nex'))
+MAM_Phylo <- read.nexus(here("Data", "Mammal_dat", 'DNA_MAMMAL.tre'))
 
 REP_Host_Dat$Species <- sub(" ", "_", REP_Host_Dat$Species)
 AVE_Host_Dat$Species <- sub(" ", "_", AVE_Host_Dat$Species)
 AVE_Host_Dat$Species[94] <- "Pulsatrix_koeniswaldiana"
 MAM_Host_Dat$Species <- sub(" ", "_", MAM_Host_Dat$Species)
+
+###MAM_HOST_DAT (gets rid of the extraneous labels)
+MAM_Phylo$tip.label<- stringr::str_extract(MAM_Phylo $tip.label, "[^_]*_[^_]*")
+
 
 
 ###Note that I already subsetted the information necessary for the 
@@ -73,6 +77,7 @@ MAM_Merged_F<- na.omit(data.frame(Upper = do.call(rbind, by(MAM_Merged,
 MAM_Merged_F$Species <- rownames(MAM_Merged_F)
 MAM_Merged_F <- MAM_Merged_F[is.finite(MAM_Merged_F$Upper),]
 
+###Reptile
 REP_Merged_F <- na.omit(data.frame(Upper = do.call(rbind, by(REP_Merged, 
                                                             REP_Merged$Species, 
                                                             function (x) 
@@ -85,15 +90,15 @@ REP_Merged_F <- REP_Merged_F[is.finite(REP_Merged_F$Upper),]
 AVE_NOT_FOUND_SPECIES <- subset(AVE_Merged_F, !(rownames(AVE_Merged_F)
          %in% AVE_Phylo [[1]]$tip.label))
 
+###These are the species that cannot be find
 MAM_NOT_FOUND_SPECIES <- subset(MAM_Merged_F, !(rownames(MAM_Merged_F)
-                                                %in% MAM_Phylo [[1]]$tip.label))
+                                                %in% MAM_Phylo$tip.label))
 
 REP_NOT_FOUND_SPECIES <- subset(REP_Merged_F, !(rownames(REP_Merged_F)
                                                 %in% REP_Phylo[[1]]$tip.label))
 
 ###Avian and mammal have distribution of trees
 consensus_Avian_Tree <- consensus(AVE_Phylo, p = 1, check.labels = TRUE, rooted = TRUE)
-consensus_Mammal_Tree <- consensus(MAM_Phylo, p = 1, check.labels = TRUE, rooted = TRUE)
 consensus_Reptile_Tree <-   consensus(REP_Phylo, p = 1, check.labels = TRUE, rooted = TRUE)
 
 ###Adding missing species###
@@ -131,9 +136,9 @@ consensus_Avian_Tree_FINAL <- keep.tip(consensus_Avian_Tree,
                                        Avian_MERGED_F$Species)
 
 Mammal_MERGED_F <- subset(MAM_Merged_F, 
-                         MAM_Merged_F$Species %in% consensus_Mammal_Tree$tip.label)
+                         MAM_Merged_F$Species %in% MAM_Phylo$tip.label)
 
-consensus_Mammalian_Tree_FINAL <- keep.tip(consensus_Mammal_Tree,
+consensus_Mammalian_Tree_FINAL <- keep.tip(MAM_Phylo,
                                            Mammal_MERGED_F$Species)
 
 Reptile_MERGED_F <- subset(REP_Merged_F, 
